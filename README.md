@@ -1,2 +1,2 @@
 # tutorials
-PLT/FP/O(x)Caml (tutorials)[tutorials.md]
+PLT/FP/O(x)Caml (tutorials)[./tutorials.md]
