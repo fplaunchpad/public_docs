@@ -1,4 +1,2 @@
 # tutorials
-PLT/FP/O(x)Caml tutorials
-
-https://github.com/fplaunchpad/tutorials/wiki
+PLT/FP/O(x)Caml (tutorials)[tutorials.md]
