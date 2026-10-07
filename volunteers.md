@@ -50,5 +50,6 @@ Volunteer contributors currently working with FP Launchpad.
 | Vedant Neve | [0bVdnt](https://github.com/0bVdnt) |
 | Adith N K | [adithn875](https://github.com/adithn875) |
 | Rohith Vinod | [rv178](https://github.com/rv178) |
+| Srujan Vinod Sarode | [Sibearian](https://github.com/Sibearian) |
 
 _Last updated: 7 October 2026_
