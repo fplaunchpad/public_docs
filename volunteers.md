@@ -7,7 +7,14 @@ projects based on their background. Contributors coordinate with the team on the
 
 Interested in contributing? See [fplaunchpad.org/work-with-us](https://fplaunchpad.org/work-with-us/).
 
-## Projects open to volunteers
+**Contents**
+
+- [Projects](#projects)
+- [Developers](#developers)
+
+## Projects
+
+Projects open to volunteers.
 
 Explanatory material key: 📝 README or markdown in a repo · 📘 docs, book or tutorial · 📄 paper or PDF · 📊 slides · 🎥 video · 🎤 talk abstract · 📰 blog post · 🌐 website · 💬 forum thread · 🔀 pull request or issue · 💻 code repo
 
@@ -30,5 +37,21 @@ Explanatory material key: 📝 README or markdown in a repo · 📘 docs, book o
 | DSCheck | Model checker for concurrent data structures. | [ocaml-multicore/dscheck](https://github.com/ocaml-multicore/dscheck) | 1. 📝 [DSCheck README](https://github.com/ocaml-multicore/dscheck#readme)<br>2. 📝 [DSCheck tests](https://github.com/ocaml-multicore/dscheck/tree/main/tests)<br>3. 🌐 [CS6868 course site (concurrency background)](https://fplaunchpad.org/cs6868_s26/)<br>4. 📝 [CS6868 project idea 7: Systematic Concurrency Testing with DSCheck](https://github.com/fplaunchpad/cs6868_s26/blob/main/project/project_ideas.md)<br>5. 🔀 [Open PR: DSCheck tests for a Treiber stack](https://github.com/fplaunchpad/cs6868_s26/pull/9)<br>6. 🔀 [open issue: liveness properties](https://github.com/fplaunchpad/cs6868_s26/issues/10)<br>7. 📰 ["What the interns built" blog, DSCheck section](https://fplaunchpad.org/blog/what-the-interns-built/)<br>8. 📄 [Flanagan and Godefroid, Dynamic Partial-Order Reduction (POPL 2005)](https://users.soe.ucsc.edu/~cormac/papers/popl05.pdf) |
 | OCaml Workshop | FP Launchpad's OCaml workshops and teaching material. | [fplaunchpad/indiafoss-2026-ocaml-workshop](https://github.com/fplaunchpad/indiafoss-2026-ocaml-workshop) | 1. 📘 [Fun and Profit with OCaml (live workshop)](https://fplaunchpad.org/indiafoss-2026-ocaml-workshop/)<br>2. 📝 [Workshop repo README](https://github.com/fplaunchpad/indiafoss-2026-ocaml-workshop)<br>3. 📘 [Functional Programming with OCaml (NPTEL course book)](https://fplaunchpad.org/ocaml_nptel/)<br>4. 🌐 [IndiaFOSS 2026 page](https://fplaunchpad.org/indiafoss-2026/)<br>5. 📘 [Real World OCaml](https://dev.realworldocaml.org/guided-tour.html)<br>6. 📘 [CS3110 textbook](https://cs3110.github.io/textbook/chapters/basics/intro.html) |
 | CoRE Stack new features | Adding features to CoRE Stack, an open-source platform for climate and landscape data. | [core-stack-org/core-stack-backend](https://github.com/core-stack-org/core-stack-backend), [fplaunchpad/core-stack-backend](https://github.com/fplaunchpad/core-stack-backend) | 1. 📝 [climate-central README](https://github.com/fplaunchpad/climate-central)<br>2. 📘 [CoRE Stack "Nuts and Bolts"](https://core-stack.org/category/knowledge/nuts-bolts/)<br>3. 📘 [Technical Manual v2](https://core-stack.org/core-stack-technical-manual-v2/)<br>4. 📘 [docs.core-stack.org](https://docs.core-stack.org)<br>5. 📝 [FPL fork setup guides](https://github.com/fplaunchpad/core-stack-backend/tree/main/docs)<br>6. 📝 [corestack-needs-and-goals.md](https://github.com/fplaunchpad/climate-central/blob/main/corestack-needs-and-goals.md)<br>7. 📝 [Fork wiki: Change Detection pipeline spec and known bugs](https://github.com/fplaunchpad/core-stack-backend/wiki) |
+
+## Developers
+
+Volunteer contributors currently working with FP Launchpad.
+
+| Name | GitHub |
+|---|---|
+| Saankhya Srikanth | [saankhya18](https://github.com/saankhya18) |
+| Achintya Jai | [pUrGe12](https://github.com/pUrGe12) |
+| Vinod Parthasarathy | Not given yet |
+| Saachi Kaup | [SaachiKaup](https://github.com/SaachiKaup) |
+| Krishna Kumar Gupta | Not given yet |
+| Saiyam Chettri | [yumkkc](https://github.com/yumkkc) |
+| Vedant Neve | [0bVdnt](https://github.com/0bVdnt) |
+| Adith N K | [adithn875](https://github.com/adithn875) |
+| Rohith Vinod | [rv178](https://github.com/rv178) |
 
 _Last updated: 7 October 2026_
