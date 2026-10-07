@@ -16,8 +16,6 @@ Interested in contributing? See [fplaunchpad.org/work-with-us](https://fplaunchp
 
 Projects open to volunteers.
 
-Explanatory material key: 📝 README or markdown in a repo · 📘 docs, book or tutorial · 📄 paper or PDF · 📊 slides · 🎥 video · 🎤 talk abstract · 📰 blog post · 🌐 website · 💬 forum thread · 🔀 pull request or issue · 💻 code repo
-
 | Project | Description | Repos | Explanatory material |
 |---|---|---|---|
 | Verified Vibecoded Compilers | Using formal verification to check compilers written with AI assistance. | None yet | 1. 📰 [FP Launchpad update blog, "Specifications and proofs"](https://fplaunchpad.org/blog/2026-09-fp-launchpad-update/)<br>2. 📄 [Hax paper](https://eprint.iacr.org/2025/142)<br>3. 📘 [Hax docs](https://hax.cryspen.com/)<br>4. 🌐 [Aeneas](https://aeneasverif.github.io/)<br>5. 🌐 [Melocoton: formal OCaml/C FFI semantics](https://melocoton-project.github.io/) |
