@@ -43,7 +43,6 @@ Volunteer contributors currently working with FP Launchpad.
 | Name | GitHub |
 |---|---|
 | Saankhya Srikanth | [saankhya18](https://github.com/saankhya18) |
-| Achintya Jai | [pUrGe12](https://github.com/pUrGe12) |
 | Vinod Parthasarathy | Not given yet |
 | Saachi Kaup | [SaachiKaup](https://github.com/SaachiKaup) |
 | Krishna Kumar Gupta | Not given yet |
